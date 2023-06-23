@@ -1,0 +1,45 @@
+body {
+        background-image: url("https://www.transparenttextures.com/patterns/batthern.png");
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 400px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[placeholder="Enter Full URL"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+
+.form-signin input[placeholder="Enter Note"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.form-signin input[placeholder="Enter Details"] {
+    margin-bottom: 10px;
+   }
+   .my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+.darkmodetoggle{
+    z-index: 3;
+}
