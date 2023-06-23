@@ -12,7 +12,7 @@ Used Mongo Atlas Search with autocomplete function applied to all paths.
 - you can search via full url, short url or even notes
 
 All Urls:
-you can find all urls stored on sie by clicking bottom accordion
+you can find all urls stored on site by clicking bottom accordion
 
 Analytics:
 -Clicks shows the number of times a particular short url is clicked
