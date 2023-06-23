@@ -23,6 +23,7 @@ at bottom right you will find toggle button to switch to dark mode
 Tech Stacks used:
 - Html, css, bootstrap ,js and ejs to dynamically render content at frontend
 - Node, Express, body-parser package to create backend server
+- npm package shortid to generate random ids
 - Mongodb with mongoose framework as database
 - Used mongo cloud to create search indexes
 - Used Cyclic to deploy the website
@@ -30,7 +31,7 @@ Tech Stacks used:
 To run the product in local host:
 -clone this repo
 -install node, initialize npm
--install packages like express, body-parser, mongo db and mongoose
+-install packages like express, body-parser, shortid, mongo db and mongoose
 
 Yash Awasthi
   
